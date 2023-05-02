@@ -24,8 +24,6 @@ namespace efzgamebot.Controllers.API {
                 $"username={username}"
             };
 
-            paramsList.Sort((a, b) => a.CompareTo(b));
-
             string hash = GetParamsHash(paramsList, botToken);
 
             string requestBody = $@"
@@ -66,6 +64,7 @@ namespace efzgamebot.Controllers.API {
 
             byte[] secret_key_in_bytes;
 
+            paramsList.Sort((a, b) => a.CompareTo(b));
             string data_check_string = string.Join("\n", paramsList);
 
             byte[] data_check_in_bytes = Encoding.UTF8.GetBytes(data_check_string);
