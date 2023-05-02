@@ -40,7 +40,7 @@ After this you will have Game short name
 
 <img width="770" alt="CreateBotKey" src="https://user-images.githubusercontent.com/111277652/235602379-479f7e51-7fcb-41df-b2a5-b730beb9203f.png">
 
-7. Upload your game on server and place it under a domain with `https`. If you can't have https, you can switch [telegram to test mode](https://core.telegram.org/bots/webapps#using-bots-in-the-test-environment) 
+7. Upload your game on server and place it under a domain with `https`. If you don't have https, you can switch [telegram to test mode](https://core.telegram.org/bots/webapps#using-bots-in-the-test-environment) 
 or use for example our Unity SDK demo link: https://tonplay.demosdk.fantasylabsgames.dev .
 
 ### Let's start the bot
