@@ -46,6 +46,7 @@ or use for example our Unity SDK demo link: https://tonplay.demosdk.fantasylabsg
 ### Let's start the bot
 We have all the necessary information. 
 1. Copy all the necessary data from [BotFather](https://t.me/botfather) and [Console TON Play](https://console.tonplay.io/) to the .env file.
+> **Note** GAME_SHORT_NAME it is not game name. Look at step 5 in [Get all the necessary data to run the bot](https://github.com/ton-play/tonplay-telegram-bot#get-all-the-necessary-data-to-run-the-bot)
 
 <img width="1014" alt="Copy info in telegram bot" src="https://user-images.githubusercontent.com/111277652/235602436-1be9eb72-21d8-457a-8e1c-154b7b6f02c0.png">
 
@@ -78,8 +79,8 @@ We have all the necessary information.
 ## How can you start your game in Telegram 
 
 In Telegram games can be launched in two ways.   
-_The version of the built-in API in Web API and Web View may differ, which may cause some functions to not work.
-More about telegram game_
+> **Note** The version of the built-in API in Web API and Web View may differ, which may cause some functions to not work.
+More about telegram game
 
 ### Telegram Game
 
