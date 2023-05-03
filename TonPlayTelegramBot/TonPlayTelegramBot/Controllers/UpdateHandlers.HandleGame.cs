@@ -36,7 +36,7 @@ public partial class UpdateHandlers : Microsoft.Extensions.Hosting.IHostedServic
                 }
 
                 tokenString = $"token={token.token}";
-                string url = $"{_gameAddress}/?{tokenString}";
+                string url = $"{_gameAddress}?{tokenString}";
                 Console.WriteLine("url: " + url);
                 await botClient.AnswerCallbackQueryAsync(
                     callbackQueryId: callbackQuery.Id,

@@ -36,7 +36,7 @@ public partial class UpdateHandlers : Microsoft.Extensions.Hosting.IHostedServic
             }
 
             WebAppInfo webAppInfo = new WebAppInfo();
-            webAppInfo.Url = $"{_gameAddress}/?{tokenString}";
+            webAppInfo.Url = $"{_gameAddress}?{tokenString}";
 
             ReplyKeyboardMarkup replyKeyboardMarkup = new(new[] {
                 new KeyboardButton[] {
