@@ -33,8 +33,8 @@ You need to choose a username for your bot.
 
 <img width="1062" alt="Short name" src="https://user-images.githubusercontent.com/111277652/235602041-5a657c7f-9f35-44dd-ba40-52c42ae969cb.png">
 
-You will need a 640x360 pixels image, you can take it from the repository as an [example image](https://github.com/ton-play/tonplay-telegram-bot/blob/main/GameImageExample640x360.png) (you can change image any time in telegram).
-After this you will have Game short name
+You will need an image with a resolution of 640x360 pixels. You can use an [example image](https://github.com/ton-play/tonplay-telegram-bot/blob/main/GameImageExample640x360.png) provided in the repository, but you can change the image at any time in Telegram.
+After this you will have Game short name.
 
 6. Now let's go back to [Console TON Play](https://console.tonplay.io/) and get the bot_key.
 
