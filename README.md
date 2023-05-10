@@ -1,6 +1,6 @@
 # TonPlayTelegramBot
 
-This is a simple example of a telegram bot for run your game.
+This is a simple example of a Telegram bot to run your game.
 
 In this example, you can run the game as a telegram Web App and exactly as a game in the web view.
 
