@@ -68,13 +68,13 @@ We have all the necessary information.
 
 ## Add Docker
 
-1. Download docker https://www.docker.com/get-started/ 
-2. In Visual Studio Click on your project Add -> Docker Support 
+1. Download Docker https://www.docker.com/get-started/. 
+2. In Visual Studio click on your project -> Add -> Docker Support. 
 
 <img width="566" alt="Add docker support" src="https://user-images.githubusercontent.com/111277652/235603319-ee7d41f1-7035-432f-8038-e26f732faa45.png">
 
-3. Run Docker on you PC or Mar 
-4. Run your project in Visual Studio
+3. Run Docker on you PC or Mac. 
+4. Run your project in Visual Studio.
 
 ## How can you start your game in Telegram 
 
