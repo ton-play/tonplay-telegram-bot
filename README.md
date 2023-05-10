@@ -4,6 +4,20 @@ This is a simple example of a Telegram bot to run your game.
 
 In this example, you can run the game as a Telegram Web App and exactly as a game in a web view.
 
+See also:  
+- [TON Play Unity SDK](https://github.com/ton-play/tonplay-unity-sdk) — this SDK allows you to get blockchain assets related to your game and to a specific user.
+- [TON Play React Wrapper](https://github.com/ton-play/tonplay-unity-react-wrapper) — allows you to optimize the way the game launches in an iFrame or WebApp/WebView.   
+
+Table of contents
+- [Quick start](#quick-start)
+  - [Get all the necessary data to run the bot](#get-all-the-necessary-data-to-run-the-bot)
+  - [Let's start the bot](#lets-start-the-bot)
+- [Project structure](#project-structure)
+- [Add Docker](#add-docker)
+- [How can you start your game in Telegram?](#how-can-you-start-your-game-in-telegram)
+- [Telegram Game](#telegram-game)
+- [Telegram Web App](#telegram-web-app)
+
 ## Quick start
 
 ### Get all the necessary data to run the bot
