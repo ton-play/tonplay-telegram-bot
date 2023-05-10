@@ -2,7 +2,7 @@
 
 This is a simple example of a Telegram bot to run your game.
 
-In this example, you can run the game as a telegram Web App and exactly as a game in the web view.
+In this example, you can run the game as a Telegram Web App and exactly as a game in a web view.
 
 ## Quick start
 
