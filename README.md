@@ -78,13 +78,12 @@ We have all the necessary information.
 
 ## How can you start your game in Telegram? 
 
-In Telegram games can be launched in two ways.   
+In Telegram, games can be launched in two ways.   
 > **Note** The version of the built-in API in Web API and Web View may differ, which may cause some functions to not work.
-More about telegram game
 
 ### Telegram Game
 
-One of them is in the web view and it will be recognized by Telegram as a game. 
+One way to launch a game is in the web view, which will be recognized by Telegram as a game. 
 
 <img width="918" alt="web view example" src="https://user-images.githubusercontent.com/111277652/235602538-525bf13b-2b2e-4305-a242-8d270513762d.png">
 
