@@ -1,4 +1,4 @@
-# Ton Play Telegram Bot
+# TON Play Telegram Bot
 
 This is a simple example of a Telegram bot to run your game.
 
