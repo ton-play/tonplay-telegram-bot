@@ -2,7 +2,7 @@
 
 This is a simple example of a Telegram bot to run your game.
 
-In this example, you can run the game as a Telegram Web App and exactly as a game in a web view.
+In this example, you can run a game as a Telegram Web App and exactly as a game in a web view.
 
 See also:  
 - [TON Play Unity SDK](https://github.com/ton-play/tonplay-unity-sdk) — this SDK allows you to get blockchain assets related to your game and to a specific user.
