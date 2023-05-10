@@ -76,7 +76,7 @@ We have all the necessary information.
 3. Run Docker on you PC or Mac. 
 4. Run your project in Visual Studio.
 
-## How can you start your game in Telegram 
+## How can you start your game in Telegram? 
 
 In Telegram games can be launched in two ways.   
 > **Note** The version of the built-in API in Web API and Web View may differ, which may cause some functions to not work.
