@@ -14,8 +14,8 @@ In this example, you can run the game as a Telegram Web App and exactly as a gam
 
 <img width="901" alt="Create new Game" src="https://user-images.githubusercontent.com/111277652/235601861-fcd0f1e9-896e-4a07-afa0-97d0851c63cc.png">
 
-3. Go to Telegram [BotFather](https://t.me/botfather) to create your new bot. As a result, you should get a bot token.
-You need to call.
+3. Go to Telegram [BotFather](https://t.me/botfather) to create your new bot. As a result, you will get a bot token.
+You need to choose a username for your bot.
 
 `/newbot`
 
