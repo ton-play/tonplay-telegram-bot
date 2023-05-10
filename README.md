@@ -83,7 +83,7 @@ In Telegram, games can be launched in two ways.
 
 ### Telegram Game
 
-One way to launch a game is in the web view, which will be recognized by Telegram as a game. 
+One way to launch a game is in a web view, which will be recognized by Telegram as a game. 
 
 <img width="918" alt="web view example" src="https://user-images.githubusercontent.com/111277652/235602538-525bf13b-2b2e-4305-a242-8d270513762d.png">
 
@@ -92,7 +92,7 @@ https://core.telegram.org/bots/api#games
 
 ### Telegram Web App
 
-Another option is to run the game in the web app, and in this case for telegram it's just opening the site.
+Another option is to run a game in a web app, and in this case for Telegram it's just opening the site.
 
 <img width="795" alt="web app example" src="https://user-images.githubusercontent.com/111277652/235602523-8aa93c16-5ef7-4ab7-92a0-1e8cb1571b96.png">
 
