@@ -21,7 +21,7 @@ You need to choose a username for your bot.
 
 <img width="792" alt="create your new bot" src="https://user-images.githubusercontent.com/111277652/235601985-258ada6c-fedb-4a44-9dc4-9fe1c20ec4d1.png">
 
-4. Next inside [BotFather](https://t.me/botfather) you need to enable Inline. Choose your bot and write any phrase (you can always change it). 
+4. Next, inside [BotFather](https://t.me/botfather), you need to enable Inline mode. Choose your bot and write any phrase (you can always change it). 
 
 `/setinline`
 
