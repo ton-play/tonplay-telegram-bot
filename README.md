@@ -27,7 +27,7 @@ You need to choose a username for your bot.
 
 <img width="814" alt="Add inline bot" src="https://user-images.githubusercontent.com/111277652/235602012-e63c7cf5-e689-4ac5-9c1a-4a6d5e8e5e87.png">
 
-5. Add a game to telegram in [BotFather](https://t.me/botfather) (this step is needed if you choose the option to run the game as a Telegram Game, not just a Web App. For this example, we recommend doing this step.
+5. Add a game to Telegram in [BotFather](https://t.me/botfather) (this step is needed if you choose the option to run the game as a Telegram Game, not just a Web App. For this example, we recommend doing this step.
 
 `/newgame`
 
