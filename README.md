@@ -61,10 +61,10 @@ We have all the necessary information.
 
 `UpdateHandlers.MessageReceived.cs` — triggers different actions depending on the message.  
 
-`UpdateHandlers.HandleGame.cs` — launches the game in web view.  
-`UpdateHandlers.HandleWebApp.cs` — launches the game in web app.  
+`UpdateHandlers.HandleGame.cs` — launches the game in a web view.  
+`UpdateHandlers.HandleWebApp.cs` — launches the game in a web app.  
 
-`APITonPlayTelegramLogin.cs` — gets the user's token. It also implements hash calculation. Learn more TON Play API https://docs.tonplay.io/digital-assets-api/auth-api. 
+`APITonPlayTelegramLogin.cs` — gets the user's token. It also implements hash calculation. Learn more about TON Play API https://docs.tonplay.io/digital-assets-api/auth-api. 
 
 ## Add Docker
 
